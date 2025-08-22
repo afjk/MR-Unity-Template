@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: VIVE-MR-Unity-Template
+  productName: MR-Unity-Template
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: VIVE-MR-Unity-Template
+  metroPackageName: MR-Unity-Template
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: VIVE-MR-Unity-Template
+  metroApplicationDescription: MR-Unity-Template
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -925,7 +925,7 @@ PlayerSettings:
   cloudProjectId: 5ddfe3fb-ade1-44b1-8e3b-56e5b21ab7e1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: VIVE-MR-Unity-Template 2025-07-07_19-16-56
+  projectName: MR-Unity-Template 2025-07-07_19-16-56
   organizationId: afjk_psychic_vr_lab
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
